@@ -2,7 +2,7 @@
   <img src="Git Banner2.png" alt="GitHub Banner" width="100%">
 </p>
 
-# Hi there, Welcome to my GitHub 👋
+# Welcome 👋
 
 ### Data Analyst | Business Intelligence | Power BI • Tableau • SQL • Python
 

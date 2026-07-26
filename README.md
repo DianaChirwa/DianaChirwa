@@ -43,11 +43,11 @@ An interactive Tableau dashboard designed to analyse supplier performance, wareh
 
 ### Business Questions
 
-**Suspicion 1**
-Some suppliers and warehouses may be underperforming, resulting in lower OTIF rates and higher stockouts.
+**Suspicion 1:**
+ Some suppliers and warehouses may be underperforming, resulting in lower OTIF rates and higher stockouts.
 
-**Suspicion 2**
-FoodMart may be wasting inventory while simultaneously experiencing stock shortages, suggesting inventory is not being managed effectively.
+**Suspicion 2:**
+ FoodMart may be wasting inventory while simultaneously experiencing stock shortages, suggesting inventory is not being managed effectively.
 
 ### Key Metrics
 
@@ -61,9 +61,9 @@ FoodMart may be wasting inventory while simultaneously experiencing stock shorta
 
 Tableau • Business Intelligence • Dashboard Design • KPI Analysis • Supply Chain Analytics
 
-🔗 **GitHub Repository:** *(Add your repository link)*
+🔗 **GitHub Repository:** *https://github.com/DianaChirwa/foodmart-supply-chain-dashboard*
 
-📊 **Tableau Public:** *(Add your Tableau Public link)*
+📊 **Tableau Public:** *https://public.tableau.com/views/FoodMartOperationsInventoryDashboard/FoodMartOperationsOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 ---
 

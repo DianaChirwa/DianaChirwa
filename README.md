@@ -2,7 +2,7 @@
   <img src="Git Banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-# Hi there, I'm Diana Chirwa 👋
+# Hi there, Welcome to my GitHub 👋
 
 ### Data Analyst | Business Intelligence | Power BI • Tableau • SQL • Python
 

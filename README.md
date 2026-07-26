@@ -71,6 +71,28 @@ Tableau • Business Intelligence • Dashboard Design • KPI Analysis • Supp
 
 ---
 
+## 📜 Certifications
+
+I believe in continuous learning and regularly strengthen my technical and analytical skills through industry-recognised certifications and professional development courses.
+
+### 🏅 Microsoft Certifications
+
+- **Power BI Data Analyst Associate** (PL-300)
+- **Azure Data Scientist Associate** (DP-100)
+- **Azure Data Engineer Associate** (DP-203)
+- **Azure Administrator Associate** (AZ-104)
+- **Endpoint Administrator Associate** (MD-102)
+- **Identity and Access Administrator Associate** (SC-300)
+- **Microsoft 365 Administrator Expert** (MS-102)
+- **Azure AI Fundamentals** (AI-900)
+
+### 📚 Professional Courses
+
+- **Data Science Math Skills** — Duke University (Coursera)
+- **Python for Data Science, AI & Development** — IBM (Coursera)
+- **Introduction to Relational Databases and SQL** — Udemy
+
+---
 ## 🛠️ Tech Stack
 
 ### 📊 Analytics & Visualisation

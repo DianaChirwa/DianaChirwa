@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Git Banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # Hi there, I'm Diana Chirwa 👋
 
 ### Data Analyst | Business Intelligence | Power BI • Tableau • SQL • Python

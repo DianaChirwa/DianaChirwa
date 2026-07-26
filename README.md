@@ -106,7 +106,7 @@ Tableau • Business Intelligence • Dashboard Design • KPI Analysis • Supp
 
 <p align="center">
 
-<a href="www.linkedin.com/in/dianachirwa">
+<a href="https//www.linkedin.com/in/dianachirwa">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 

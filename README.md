@@ -14,23 +14,6 @@ I enjoy transforming data into meaningful insights through dashboards, data visu
 
 ---
 
-## 📂 Portfolio
-
-Projects on this GitHub include:
-
-- 📊 Business Intelligence
-- 🛒 Sales Analytics
-- 📣 Marketing Analytics
-- 📦 Supply Chain Analytics
-- 💰 Financial Analytics
-- 🏥 Healthcare Analytics
-- 🌍 Environmental Analytics
-- 🌾 Agricultural Analytics
-
-*New projects are added regularly as I continue building my portfolio.*
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tools |
@@ -41,6 +24,7 @@ Projects on this GitHub include:
 
 📊 **Tableau Public:** *https://public.tableau.com/views/FoodMartOperationsInventoryDashboard/FoodMartOperationsOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
+*New projects are added regularly as I continue building my portfolio.*
 ---
 
 ## 📜 Certifications

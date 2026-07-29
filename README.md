@@ -24,7 +24,7 @@ I enjoy transforming data into meaningful insights through dashboards, data visu
 
 📊 **Tableau Public:** *https://public.tableau.com/views/FoodMartOperationsInventoryDashboard/FoodMartOperationsOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
-*New projects are added regularly as I continue building my portfolio.*
+#### *New projects are added regularly as I continue building my portfolio.*
 ---
 
 ## 📜 Certifications

@@ -1,6 +1,6 @@
 # Hi, I'm Diana Chirwa 👋
 
-### Business Intelligence | Data Analytics | Power BI • Tableau • SQL • Python
+#### Data Analytics | Business Intelligence | • Excel • Power BI • Tableau • SQL • Python
 
 Transforming data into actionable insights that support better business decisions.
 

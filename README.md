@@ -61,9 +61,9 @@ I enjoy transforming data into meaningful insights through dashboards, data visu
 |---------|-------------|-------|
 | 📦 FoodMart Supply Chain Dashboard | An interactive Tableau dashboard designed to analyse supplier performance, warehouse operations, and inventory health across FoodMart's supply chain. | Tableau |
 
-🔗 **GitHub Repository:** *https://github.com/DianaChirwa/foodmart-supply-chain-dashboard* 
+🔗 [**GitHub Repository**](https://github.com/DianaChirwa/foodmart-supply-chain-dashboard)
 
-📊 **Tableau Public:** *https://public.tableau.com/views/FoodMartOperationsInventoryDashboard/FoodMartOperationsOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+📊 [**Tableau Public**](https://public.tableau.com/views/FoodMartOperationsInventoryDashboard/FoodMartOperationsOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### *New projects are added regularly as I continue building my portfolio.*
 ---
